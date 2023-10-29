@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ujjwalyadav
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently getting my hands around Deep Learning
 - 📫 How to reach me : ujjwal71761@gmail.com
 
 <!---
