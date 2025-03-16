@@ -45,9 +45,7 @@ Hey there! 👋 I'm **Ujjwal**, a passionate **Data Scientist** and **Machine Le
 📧 **Email**: ujjwal71761@gmail.com  
 🚀 Always open to collaborating on exciting AI projects!  
 
----
 
-Would you like to add more personal touches, humor, or a specific section for contributions/collaborations? Let me know! 😊 🚀
 <!---
 ujjwalyadav/ujjwalyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
